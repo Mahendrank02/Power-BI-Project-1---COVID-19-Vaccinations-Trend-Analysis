@@ -35,21 +35,19 @@ In visualization, I took the help of Power BI Desktop software to make graphs an
 
 ![mceclip0_1666932890](https://github.com/Mahendrank02/Power-BI-Project-1---COVID-19-Vaccinations-Trend-Analysis/assets/121614027/f59010e1-ec83-4ca7-8531-6120841c0d1c)
 
+![mceclip1_1666932901](https://github.com/Mahendrank02/Power-BI-Project-1---COVID-19-Vaccinations-Trend-Analysis/assets/121614027/366aa034-b389-4f4f-937b-42274348dcff)
 
+![mceclip2_1666932910](https://github.com/Mahendrank02/Power-BI-Project-1---COVID-19-Vaccinations-Trend-Analysis/assets/121614027/e0b98334-be03-4e75-82be-9f703abce2ea)
 
+![mceclip3_1666932921](https://github.com/Mahendrank02/Power-BI-Project-1---COVID-19-Vaccinations-Trend-Analysis/assets/121614027/56f9b2c9-35d1-4a0a-ad8a-9c6df14623b4)
 
+![mceclip4_1666932930](https://github.com/Mahendrank02/Power-BI-Project-1---COVID-19-Vaccinations-Trend-Analysis/assets/121614027/27f4fb4f-b737-4d00-b7ed-a4eab40fa209)
 
+![mceclip5_1666932939](https://github.com/Mahendrank02/Power-BI-Project-1---COVID-19-Vaccinations-Trend-Analysis/assets/121614027/4910b5b4-33b2-4284-aa8f-f227b165d8ce)
 
+![mceclip6_1666932951](https://github.com/Mahendrank02/Power-BI-Project-1---COVID-19-Vaccinations-Trend-Analysis/assets/121614027/9784cc35-e8a7-403a-81d2-76adb687a1e2)
 
-
-
-
-
-
-
-
-
- 
+![mceclip7_1666932958](https://github.com/Mahendrank02/Power-BI-Project-1---COVID-19-Vaccinations-Trend-Analysis/assets/121614027/5cc071e3-286d-44d3-9ea1-5e15105bff0d)
 
 Analysis
 
@@ -63,9 +61,6 @@ In 2022 Total Vaccination is 39.2% is completed.
 China, India, the United States, Brazil, Indonesia, Germany, United States, Turkey, France, and England There are the top 10 countries is completed the full Vaccinations.
  
 
- 
-
- 
 
 Insights
 
